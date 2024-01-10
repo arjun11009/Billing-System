@@ -39,6 +39,6 @@ AD Billing Software is a simple billing application developed using Python and T
 - Arjunsingh Kuldeepsingh Rana
 
 ## License
-This project is licensed under the [MIT License] (LICENSE).
+This project is licensed under the [MIT License] [LICENSE].
 
 Feel free to contribute, report issues, or suggest improvements!
