@@ -31,6 +31,9 @@ AD Billing Software is a simple billing application developed using Python and T
 ## Database Configuration
 - Ensure you have a MySQL server running locally or update the connection details in the code (`billing_app.py`).
 - Modify the database details in the `mysql.connector.connect` function.
+- Create the required tables in your Database in my case it is MySQL Workbench.
+- Create two tables one with name Data with columns Product_id, Product_name, Category, Name.
+- And other one with name Customer_details to store the information with column name Customer_id, Bill_no, Customer_name, Mobile_no, Email, Date_Time.
 
 ## Contributors
 - Arjunsingh Kuldeepsingh Rana
